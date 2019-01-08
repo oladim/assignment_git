@@ -1,7 +1,2 @@
 
-# assignment_git
-
-modification by master branch
-
-# assignment_git additions by my branch
-
+This is a web application to test drive knowledge of git.
